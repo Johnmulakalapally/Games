@@ -3,11 +3,8 @@
  I developed 6 games. #those are
 
 1.GUESS THE NUMBER BY USER
-![guess 1](https://user-images.githubusercontent.com/110035432/182873043-63922df2-f5ce-4185-b5d9-b407dda22751.png)
-
 
 2.GUESS THE NUMBER BY COMPUTER
-![guess 2](https://user-images.githubusercontent.com/110035432/182873077-cff9ed48-61bd-4a00-84ec-030dd63743ee.jpg)
 
 3.ROCK-PAPER-SCISSOR
 
