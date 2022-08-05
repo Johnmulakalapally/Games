@@ -1,20 +1,20 @@
 # Games
  <ul> A few simple games that are able to reduce your overall stress and anxiety level as well as improves your mood.? </ul>
- I developed 6 games. #those are
+<h4> I have developed 6 games : </h4>
 
-<li type=square>1.GUESS THE NUMBER BY USER</li>
+<ul><li type=square>1} GUESS THE NUMBER BY USER</li>
 
-<li type=square>2.GUESS THE NUMBER BY COMPUTER</li>
+<li type=square>2} GUESS THE NUMBER BY COMPUTER</li>
 
-<li type=square>3.ROCK-PAPER-SCISSOR</li>
+<li type=square>3} ROCK-PAPER-SCISSOR</li>
 
-<li type=square>4.HANGMAN(Find the word)</li>
+<li type=square>4} HANGMAN(Find the word)</li>
 
-<li type=square>5.SUDUKO</li>
+<li type=square>5} SUDUKO</li>
 
-<li type=square>6.TIK-TOK-TIE</li>
+<li type=square>6} TIK-TOK-TIE</li><ul>
 
-IF we click 1, first game is selected. In this game, computer randomly generate one number, our task is find the randomly generated number by using some directiona. those direction are, computer randomly generate one number and we select the one number, our project compares the randomly genearted number & user selected number and shows user selected number is higher than or lower than the randomly genearted number. By using these direction we can find the number correctly!..... if we click e it exit the game and comes to main content
+IF we click 1, first game is selected. In this game, Computer randomly generate one number, our task is to find the randomly generated number by using some Code. computer randomly generate a number and we select the a number, our project compares the randomly genearted number & user selected number and shows user selected number is higher than or lower than the randomly genearted number. By using these direction we can find the number correctly!..... if we click <b>"E"</b> to exit the game...<p>&#128512;</p>
 
 IF we click 2, second game is selected. In this game, we assume one number in our mind, here computer task is to find the our assumed number by using some directions. those directions are, computer randomly generate a number and we are giving directions like it higher number than assumed or lower than assumed number, by help of this directions computer find the our assumed numbers... if we click e it exit the game and comes to main content
 
