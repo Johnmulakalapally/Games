@@ -20,7 +20,7 @@ IF we click 1, first game is selected. In this game, Computer randomly generate 
 IF we click 2, then second game is selected. In this game, we assume a number in our mind, here computer task is to find the assumed number by using some directions. those directions are, computer randomly generate a number and we are giving directions like it higher or lower number withy the help of this directions computer find the exact number<br>
 <p>&#128512;</p>
 <br>
- ![image](https://user-images.githubusercontent.com/110035432/183093512-7546ce6a-7cb6-41e9-a498-00c74938a79e.png)
+ [image](https://user-images.githubusercontent.com/110035432/183093512-7546ce6a-7cb6-41e9-a498-00c74938a79e.png)
 <h4>ROCK PAPER SISSOR</h4>
 IF we click 3, third game is selected. In this game, computer randmoly select the ROCK,PAPER or SISSOR<b> at the same time user also select the one. by comparing the theire selection it shows who is winner
 <p>&#128512;</p>
