@@ -14,18 +14,15 @@
 
 <li type=square>6} TIK-TOK-TIE</li><ul>
 
-<p>&#128512;</p>
+<h4><p>&#128512;</p> Guess a number :</h4>
 IF we click 1, first game is selected. In this game, Computer randomly generate one number, our task is to find the randomly generated number by using some Code. computer randomly generate a number and we select the a number, our project compares the randomly genearted number & user selected number and shows user selected number is higher than or lower than the randomly genearted number. By using these direction we can find the number correctly! <br>If we click <b>"E"</b> Get Exits from the game and comes to main content
- <p>&#128512;</p>
+<h4><p>&#128512;</p> Guess a number :</h4>
 IF we click 2, then second game is selected. In this game, we assume a number in our mind, here computer task is to find the assumed number by using some directions. those directions are, computer randomly generate a number and we are giving directions like it higher or lower number withy the help of this directions computer find the exact number<br>
-<p>&#128512;</p>
-<br>
-
-<h4>ROCK PAPER SISSOR</h4>
+<h4><p>&#128512;</p> ROCK PAPER SISSOR</h4>
 IF we click 3, third game is selected. In this game, computer randmoly select the ROCK,PAPER or SISSOR<b> at the same time user also select the one. by comparing the theire selection it shows who is winner
-<p>&#128512;</p>
+<h4><p>&#128512;</p> Finding a Word Randomly : </h4>
 IF we click 4, Fourth game is selected. In this game computer, select the one word form given list, we have 10 chances to find the word correctly by passing letters one by one if correctly guess the one letter in the word, we don not loss our 1 chance otherwise we loss our chance, with in 10 chances we can find the correctly we won the game otherwise we loss the game
-<p>&#128512;</p>
+<h4><p>&#128512;</p> :</h4>
 IF we click 5, Fifth game is selected. In this game, initially we create a 99 board and also given some numbers in row and columns, here computer task is it randomly generate the numbers between 1-9 and the number compares with the rowwise and columnwise and 33 sub matrices, if it is pesent in row or column or 33 and again computer select the another number same doing again if the number not in row and column and 33 it takes place. by doing this procedure it fill the 9*9 matrices
 <p>&#128512;</p>
 IF we click 6, SIXTH game is selected.
