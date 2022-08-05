@@ -1,18 +1,18 @@
 # Games
- A few simple games that are able to reduce your overall stress and anxiety level as well as improves your mood.
+ <ul> A few simple games that are able to reduce your overall stress and anxiety level as well as improves your mood.? </ul>
  I developed 6 games. #those are
 
-1.GUESS THE NUMBER BY USER
+<li type=square>1.GUESS THE NUMBER BY USER</li>
 
-2.GUESS THE NUMBER BY COMPUTER
+<li type=square>2.GUESS THE NUMBER BY COMPUTER</li>
 
-3.ROCK-PAPER-SCISSOR
+<li type=square>3.ROCK-PAPER-SCISSOR</li>
 
-4.HANGMAN(Find the word)
+<li type=square>4.HANGMAN(Find the word)</li>
 
-5.SUDUKO
+<li type=square>5.SUDUKO</li>
 
-6.TIK-TOK-TIE
+<li type=square>6.TIK-TOK-TIE</li>
 
 IF we click 1, first game is selected. In this game, computer randomly generate one number, our task is find the randomly generated number by using some directiona. those direction are, computer randomly generate one number and we select the one number, our project compares the randomly genearted number & user selected number and shows user selected number is higher than or lower than the randomly genearted number. By using these direction we can find the number correctly!..... if we click e it exit the game and comes to main content
 
