@@ -19,7 +19,7 @@ IF we click 1, first game is selected. In this game, Computer randomly generate 
 <h4><p>&#128512;</p>GUESS THE NUMBER BY COMPUTER :</h4>
 IF we click 2, then second game is selected. In this game, we assume a number in our mind, here computer task is to find the assumed number by using some directions. those directions are, computer randomly generate a number and we are giving directions like it higher or lower number withy the help of this directions computer find the exact number<br>
 <h4><p>&#128512;</p> ROCK-PAPER-SCISSOR<</h4>
-IF we click 3, third game is selected. In this game, computer randmoly select the ROCK,PAPER or SISSOR<b> at the same time user also select the one. by comparing the theire selection it shows who is winner
+IF we click 3, third game is selected. In this game, computer randmoly select the ROCK,PAPER or SISSOR at the same time user also select the one. by comparing the theire selection it shows who is winner
 <h4><p>&#128512;</p> HANGMAN(Find the word) : </h4>
 IF we click 4, Fourth game is selected. In this game computer, select the one word form given list, we have 10 chances to find the word correctly by passing letters one by one if correctly guess the one letter in the word, we don not loss our 1 chance otherwise we loss our chance, with in 10 chances we can find the correctly we won the game otherwise we loss the game
 <h4><p>&#128512;</p>SUDUKO< :</h4>
