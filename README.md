@@ -15,8 +15,6 @@
 <li type=square>6} TIK-TOK-TIE</li><ul>
 
 <h4><p>&#128512;</p> GUESS THE NUMBER BY USER : </h4>
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.teachwithict.com%2Fuploads%2F5%2F5%2F8%2F2%2F5582303%2Fpublished%2Fguess-the-number.png%3F1611311296&imgrefurl=https%3A%2F%2Fwww.teachwithict.com%2Fnumberguess.html&tbnid=ns7q7WFTd0JjMM&vet=12ahUKEwj52Lr7uLn5AhUri9gFHRkiDMwQMygCegUIARDGAQ..i&docid=6IZ3byptspkGHM&w=774&h=450&q=GUESS%20THE%20NUMBER%20BY%20USER&ved=2ahUKEwj52Lr7uLn5AhUri9gFHRkiDMwQMygCegUIARDGAQ
-
  IF we click 1, first game is selected. In this game, Computer randomly generate one number, our task is to find the randomly generated number by using some Code. computer randomly generate a number and we select the a number, our project compares the randomly genearted number & user selected number and shows user selected number is higher than or lower than the randomly genearted number. By using these direction we can find the number correctly! <br>If we click <b>"E"</b> Get Exits from the game and comes to main content
 <h4><p>&#128512;</p>GUESS THE NUMBER BY COMPUTER :</h4>
 IF we click 2, then second game is selected. In this game, we assume a number in our mind, here computer task is to find the assumed number by using some directions. those directions are, computer randomly generate a number and we are giving directions like it higher or lower number withy the help of this directions computer find the exact number<br>
