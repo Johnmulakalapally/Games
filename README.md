@@ -15,7 +15,7 @@
 <li type=square>6} TIK-TOK-TIE</li><ul>
 
 <h4><p>&#128512;</p> GUESS THE NUMBER BY USER : </h4>
- !(https://user-images.githubusercontent.com/110035432/183616156-e99972e1-75a9-42df-aef2-7a594c8ae3d8.jpg)
+ ![image](https://user-images.githubusercontent.com/110035432/183616156-e99972e1-75a9-42df-aef2-7a594c8ae3d8.jpg)
 
  IF we click 1, first game is selected. In this game, Computer randomly generate one number, our task is to find the randomly generated number by using some Code. computer randomly generate a number and we select the a number, our project compares the randomly genearted number & user selected number and shows user selected number is higher than or lower than the randomly genearted number. By using these direction we can find the number correctly! <br>If we click <b>"E"</b> Get Exits from the game and comes to main content
 <h4><p>&#128512;</p>GUESS THE NUMBER BY COMPUTER :</h4>
